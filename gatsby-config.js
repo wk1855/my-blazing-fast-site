@@ -1,6 +1,7 @@
 module.exports = {
+  pathPrefix: "/my-blazing-fast-site",
   siteMetadata: {
-    title: `Gatsby Default Starter`,
+    title: `我的博客`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@gatsbyjs`,
   },
