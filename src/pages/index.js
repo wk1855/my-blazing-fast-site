@@ -12,7 +12,7 @@ const IndexPage = () => (
     <p>欢迎来到我的博客</p>
     <p>我就想说下</p>
     <br />
-    <h1>我喜欢的人儿是康康</h1>
+    {/* <h1>我喜欢的人儿是康康</h1> */}
     {/* <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
